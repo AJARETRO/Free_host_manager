@@ -1,0 +1,5 @@
+name: FreeHostManager
+main: com.ajaretro.freehostmanager.FreeHostManagerPlugin
+version: 1.0.0
+author: AJARETRO
+description: Base Spigot 1.8.8 plugin setup for Free Host Manager
